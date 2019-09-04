@@ -1,0 +1,22 @@
+{
+  "name": "vue-firebase-realtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vue-cli-service serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^6.3.5",
+    "vue-quill": "^1.5.1",
+    "vuefire": "^2.1.2"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.10.0",
+    "@vue/cli-service-global": "^3.10.0"
+  }
+}
