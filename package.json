@@ -16,7 +16,7 @@
     "vuefire": "^2.1.2"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.10.0",
-    "@vue/cli-service-global": "^3.10.0"
+    "@vue/cli-service": "^5.0.8",
+    "@vue/cli-service-global": "^4.5.19"
   }
 }
